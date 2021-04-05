@@ -9,6 +9,7 @@ package entornos;
  *
  * @author lprie
  */
+@SuppressWarnings("serial")
 public class VectorLlenoException extends Exception{
     
     public VectorLlenoException(){
